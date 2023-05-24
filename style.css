@@ -1,0 +1,39 @@
+body {
+  background: url(img/back.jpg);
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+.link {
+  margin-top: 20px;
+}
+
+.link a {
+  color: white;
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+  color: white;
+}
+
+.back {
+  margin-top: 20px;
+}
+
+.back img {
+  width: 60px;
+}
+
+.back img:hover {
+  opacity: 85%;
+}
+
+.thumb:hover {
+  opacity: 60%;
+}
